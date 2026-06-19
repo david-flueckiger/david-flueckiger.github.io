@@ -1,3 +1,4 @@
 # david-flueckiger.github.io
 
-Random website on the internet. 
+## Measure Theory Notes
+[This is an external link to genome.gov](https://david-flueckiger.github.io/Lecture01.pdf)
