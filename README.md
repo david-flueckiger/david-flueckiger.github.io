@@ -16,7 +16,7 @@
 - [Lecture 12](https://david-flueckiger.github.io/Lecture12.pdf)
 - [Lecture 13](https://david-flueckiger.github.io/Lecture13.pdf)
 - [Lecture 14](https://david-flueckiger.github.io/Lecture14.pdf)
-- [Lecture 15 and Lecture 16](https://david-flueckiger.github.io/Lecture15_16.)
+- [Lecture 15 and Lecture 16](https://david-flueckiger.github.io/Lecture15_16.pdf)
 - [Lecture 17](https://david-flueckiger.github.io/Lecture17.pdf)
 - [Lecture 18](https://david-flueckiger.github.io/Lecture18.pdf)
 - [Lecture 19](https://david-flueckiger.github.io/Lecture19.pdf)
