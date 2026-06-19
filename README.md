@@ -1,6 +1,6 @@
 # david-flueckiger.github.io
 
-## Measure Theory Notes
+## Notizen Masstheorie
 
 - [Vorlesung 1 vom Donnerstag 22.09.2022](https://david-flueckiger.github.io/Lecture01.pdf) 
 - [Vorlesung 2 vom Freitag 23.09.2022](https://david-flueckiger.github.io/Lecture02.pdf) 
